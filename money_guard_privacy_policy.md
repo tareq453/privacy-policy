@@ -1,6 +1,6 @@
 <h1>Privacy Policy of Money Guard</h1>
 
-<p>Money Guard operates the Money Guard application, which provides the SERVICE.</p>
+<p>Tareq built the Money Guard app as a Free app. This SERVICE is provided by Tareq at no cost and is intended for use as is.</p>
 
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 
@@ -10,14 +10,14 @@
 
 <h2>Information Collection and Use</h2>
 
-<p>The app does use third party services that may collect information used to identify you.</p>
-
-<p>Link to privacy policy of third party service providers used by the app</p>
-<ul>
-  <li><a href="https://policies.google.com/privacy">Google Play Services</a></li>
-    <li><a href="https://firebase.google.com/policies/analytics">Google Analytics for Firebase</a></li>
-   <li><a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a></li>
-</ul>
+<div><p>
+The app does use third-party services that may collect
+information used to identify you.
+</p> <p>
+Link to the privacy policy of third-party service providers used
+by the app
+</p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener noreferrer">AdMob</a></li><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/support/privacy/" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li>
+  <!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div>
 
 
 <h2>Service Providers</h2>
